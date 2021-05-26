@@ -1,0 +1,2 @@
+(this.webpackJsonpclock=this.webpackJsonpclock||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(1),o=n(3),r=n.n(o),a=(n(9),n(4)),i=n(0),s=function(){var e=(new Date).toLocaleTimeString(),t=Object(c.useState)(e),n=Object(a.a)(t,2),o=n[0],r=n[1];return setInterval((function(){e=(new Date).toLocaleTimeString(),r(e)}),1e3),Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("h1",{children:o})})};r.a.render(Object(i.jsx)(s,{}),document.getElementById("root"))},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.ecba9325.chunk.js.map
