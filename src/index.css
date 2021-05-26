@@ -1,0 +1,11 @@
+#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 876px;
+}
+
+h1{
+  font-size: 64px;
+  font-style:oblique;
+}
